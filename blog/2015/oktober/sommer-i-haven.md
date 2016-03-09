@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2015/10/09 13:38
 Datetime: 2015-10-09
 Description: Et lille kik på sommerens aktiviteter på Dragerup Skovvej 1 i det herrens år 2015.
-Template: post
+View: post
 Disqusid: /sommer-i-haven
 ogimage: haven2015/sommer.jpg
 thumb: haven2015/sommer_custom.jpg

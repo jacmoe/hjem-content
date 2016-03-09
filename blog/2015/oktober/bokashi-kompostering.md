@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2015/10/14 13:38
 Datetime: 2015-10-14
 Description: Bokashi fermentering forvandler madaffald til kompost på bare 6-8 uger.
-Template: post
+View: post
 Disqusid: /bokashi-kompostering
 ogimage: bokashi/bokashi.jpg
 thumb: bokashi/bokashi_custom.jpg

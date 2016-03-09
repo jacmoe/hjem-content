@@ -4,7 +4,7 @@ Author: Jacob Moen
 Date: 2015/11/10
 Datetime: 2015-11-10
 Description: En herlig sommerdrik af rabarber.
-Template: post
+View: post
 Disqusid: /rabarbersaft
 ogimage: rabarbersaft/rabarbersaft.jpg
 thumb: rabarbersaft/rabarbersaft_custom.jpg
