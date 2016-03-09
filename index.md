@@ -1,5 +1,5 @@
 <!--
-Title:
+Title: Den Stammende Kok
 Description: Dette er Jacob Moen's hjemmeside, hvor han i stigende grad skriver interessante ting.
 Keywords: Jacob, Moen, Jacob Moen, jacmoe
 ogimage: newsiteimage.jpg
