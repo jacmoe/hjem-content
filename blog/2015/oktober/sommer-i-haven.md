@@ -16,4 +16,4 @@ published : true
 Sommeren i år har været god og vi har fået styr på en del i haven.  
 Endelig har vi fået den indhegnet, så der ikke kan komme rådyr ind og spise blomster og andre vækster. Hvilket betyder, at vi nu kan begynde at plante trær, sætte blomster og så grønne ting.
 
-autogallery=haven2015
+(autogallery: haven2015)
