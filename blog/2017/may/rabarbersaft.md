@@ -11,7 +11,7 @@ thumb: rabarbersaft/rabarbersaft_custom.jpg
 Keywords: sommer, mad, rabarber, saft, rabarbersaft, opskrift
 Tags: sommer, mad
 blogpost: true
-published : false
+published : true
 -->
 (lightbox:Vildvoksent rabarberbed source:rabarbersaft/rabarberbed_mobile.jpg target:rabarbersaft/rabarberbed.jpg size:small)
 
