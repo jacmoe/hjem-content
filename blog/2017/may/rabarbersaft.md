@@ -15,7 +15,20 @@ published : true
 -->
 (lightbox:Vildvoksent rabarberbed source:rabarbersaft/rabarberbed_mobile.jpg target:rabarbersaft/rabarberbed.jpg size:small)
 
+Du kender problemet: dine rabarber-planter vokser sig over hovedet på dig, inden du når at få dem brugt.
+
+Og rabarber stængler, der er så tykke som mandelår er ikke så gode i en pai..
+
+Fortvivl ikke: de kan sagtens bruges til at lave dejlig saft af!
+
 (clearfix:)
+
+## Opskrift
+
+* 2 kg rabarber, gerne store, skåret i grove stykker.
+* 1/2 liter vand
+* ca. 30 gram ingefær, skåret i små tern (behøver ikke skrælles)
+* 500 gram sukker (rørsukker, el.lign.)
 
 (lightbox:Rabarberne skæres i grove stykker source:rabarbersaft/rabarberhak_mobile.jpg target:rabarbersaft/rabarberhak.jpg size:small align:right)
 
