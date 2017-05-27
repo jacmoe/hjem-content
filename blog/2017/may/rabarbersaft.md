@@ -1,8 +1,8 @@
 <!--
 Title: Rabarbersaft
 Author: Jacob Moen
-Date: 2015/11/10
-Datetime: 2015-11-10
+Date: 2017/05/27
+Datetime: 2017-05-27
 Description: En herlig sommerdrik af rabarber.
 View: post
 Disqusid: /rabarbersaft
